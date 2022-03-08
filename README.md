@@ -14,3 +14,7 @@ Changes added into the code:
 Link to deployed application: https://vicchyx.github.io/horiseon-coderefactor/
 
 Screenshots of project: 
+![Screenshot1](./assets/images/screenshot1.png)
+![Screenshot1](./assets/images/screenshot2.png)
+![Screenshot1](./assets/images/screenshot3.png)
+![Screenshot1](./assets/images/screenshot4.png)
